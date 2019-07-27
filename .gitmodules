@@ -52,3 +52,6 @@
 [submodule "site/pack/plugins/start/vim-polyglot"]
 	path = site/pack/plugins/start/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot
+[submodule "site/pack/plugins/start/fzf.vim"]
+	path = site/pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
