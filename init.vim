@@ -1,10 +1,8 @@
-let path = "/etc/xdg/nvim"
-
-source path . "_base.vim"
-source path . "_keys.vim"
-source path . "_fzf.vim"
-source path . "_molokai.vim"
-source path . "_vim-easy-align.vim"
-source path . "_vim-easymotion.vim"
-source path . "_vim-filebeagle.vim"
-source path . "_vim-grepper.vim"
+source /etc/xdg/nvim/_base.vim
+source /etc/xdg/nvim/_keys.vim
+source /etc/xdg/nvim/_fzf.vim
+source /etc/xdg/nvim/_molokai.vim
+source /etc/xdg/nvim/_vim-easy-align.vim
+source /etc/xdg/nvim/_vim-easymotion.vim
+source /etc/xdg/nvim/_vim-filebeagle.vim
+source /etc/xdg/nvim/_vim-grepper.vim
