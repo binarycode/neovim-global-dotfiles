@@ -1,3 +1,5 @@
+set packpath=/etc/xdg/nvim/site
+
 source /etc/xdg/nvim/_base.vim
 source /etc/xdg/nvim/_keys.vim
 source /etc/xdg/nvim/_fzf.vim
