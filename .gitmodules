@@ -55,3 +55,6 @@
 [submodule "site/pack/plugins/start/fzf.vim"]
 	path = site/pack/plugins/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
+[submodule "site/pack/plugins/start/vim-editorconfig"]
+	path = site/pack/plugins/start/vim-editorconfig
+	url = https://github.com/sgur/vim-editorconfig.git
