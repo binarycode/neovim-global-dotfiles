@@ -8,3 +8,4 @@ source /etc/xdg/nvim/_vim-easy-align.vim
 source /etc/xdg/nvim/_vim-easymotion.vim
 source /etc/xdg/nvim/_vim-filebeagle.vim
 source /etc/xdg/nvim/_vim-grepper.vim
+source /etx/xdg/nvim/_vim-rooter.vim
