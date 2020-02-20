@@ -58,3 +58,6 @@
 [submodule "site/pack/plugins/start/vim-editorconfig"]
 	path = site/pack/plugins/start/vim-editorconfig
 	url = https://github.com/sgur/vim-editorconfig.git
+[submodule "site-minimal/pack/plugins/start/vim-easymotion"]
+	path = site-minimal/pack/plugins/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
