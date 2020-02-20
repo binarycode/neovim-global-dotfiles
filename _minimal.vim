@@ -1,5 +1,5 @@
 " hide line numbers
-set number
+set nonumber
 
 set noshowmode
 set noruler
