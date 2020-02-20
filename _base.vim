@@ -10,10 +10,8 @@ set softtabstop=2
 " editing operations use softtabstop value
 set smarttab
 
-if empty($NEOVIM_MINIMAL)
-  " show line numbers
-  set number
-end
+" show line numbers
+set number
 
 " highlight all search matches
 set hlsearch

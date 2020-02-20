@@ -7,6 +7,10 @@ end
 source /etc/xdg/nvim/_base.vim
 source /etc/xdg/nvim/_keys.vim
 
+if !empty($NEOVIM_MINIMAL)
+  source /etc/xdg/nvim/_minimal.vim
+endif
+
 if empty($NEOVIM_MINIMAL)
   source /etc/xdg/nvim/_fzf.vim
   source /etc/xdg/nvim/_molokai.vim
