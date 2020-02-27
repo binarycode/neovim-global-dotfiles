@@ -6,6 +6,7 @@ end
 
 source /etc/xdg/nvim/_base.vim
 source /etc/xdg/nvim/_keys.vim
+source /etc/xdg/nvim/_terminal.vim
 
 if !empty($NEOVIM_MINIMAL)
   source /etc/xdg/nvim/_minimal.vim

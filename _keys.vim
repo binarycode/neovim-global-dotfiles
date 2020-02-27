@@ -47,6 +47,3 @@ nmap ,cl :let @+=expand("%:p")<CR>
 
 " easy normal mode for terminal
 tnoremap <Esc> <C-\><C-n>
-
-" start terminal in insert mode
-autocmd BufEnter term://* startinsert
