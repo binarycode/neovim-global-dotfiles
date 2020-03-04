@@ -62,5 +62,5 @@
 	path = site-minimal/pack/plugins/start/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
 [submodule "vim-clap"]
-	path = vim-clap
+	path = site/pack/plugins/start/vim-clap
 	url = https://github.com/liuchengxu/vim-clap.git
