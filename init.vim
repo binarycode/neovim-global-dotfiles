@@ -14,6 +14,7 @@ endif
 if empty($NEOVIM_MINIMAL)
   source /etc/xdg/nvim/_fzf.vim
   source /etc/xdg/nvim/_molokai.vim
+  source /etc/xdg/nvim/_supertab.vim
   source /etc/xdg/nvim/_syntastic.vim
   source /etc/xdg/nvim/_vim-easy-align.vim
   source /etc/xdg/nvim/_vim-filebeagle.vim
