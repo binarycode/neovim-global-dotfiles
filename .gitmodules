@@ -7,9 +7,6 @@
 [submodule "site/pack/plugins/start/vim-filebeagle"]
 	path = site/pack/plugins/start/vim-filebeagle
 	url = https://github.com/jeetsukumaran/vim-filebeagle.git
-[submodule "site/pack/plugins/start/fzf"]
-	path = site/pack/plugins/start/fzf
-	url = https://github.com/junegunn/fzf.git
 [submodule "site/pack/plugins/start/vim-easy-align"]
 	path = site/pack/plugins/start/vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align.git
