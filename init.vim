@@ -1,25 +1,27 @@
+let root = expand('<sfile>:p:h')
+
 if empty($NEOVIM_MINIMAL)
-  set packpath=/etc/xdg/nvim/site
+  exec 'set packpath=' . root . '/site'
 else
-  set packpath=/etc/xdg/nvim/site-minimal
+  exec 'set packpath=' . root . '/site-minimal'
 end
 
-source /etc/xdg/nvim/_base.vim
-source /etc/xdg/nvim/_keys.vim
+exec 'source ' root . '/_base.vim'
+exec 'source ' root . '/_keys.vim'
 
 if !empty($NEOVIM_MINIMAL)
-  source /etc/xdg/nvim/_minimal.vim
+  exec 'source ' root . '/_minimal.vim'
 endif
 
 if empty($NEOVIM_MINIMAL)
-  source /etc/xdg/nvim/_fzf.vim
-  source /etc/xdg/nvim/_molokai.vim
-  source /etc/xdg/nvim/_supertab.vim
-  source /etc/xdg/nvim/_syntastic.vim
-  source /etc/xdg/nvim/_vim-easy-align.vim
-  source /etc/xdg/nvim/_vim-filebeagle.vim
-  source /etc/xdg/nvim/_vim-grepper.vim
-  source /etc/xdg/nvim/_vim-rooter.vim
+  exec 'source ' root . '/_fzf.vim'
+  exec 'source ' root . '/_molokai.vim'
+  exec 'source ' root . '/_supertab.vim'
+  exec 'source ' root . '/_syntastic.vim'
+  exec 'source ' root . '/_vim-easy-align.vim'
+  exec 'source ' root . '/_vim-filebeagle.vim'
+  exec 'source ' root . '/_vim-grepper.vim'
+  exec 'source ' root . '/_vim-rooter.vim'
 end
 
-source /etc/xdg/nvim/_vim-easymotion.vim
+exec 'source ' root . '/_vim-easymotion.vim'
