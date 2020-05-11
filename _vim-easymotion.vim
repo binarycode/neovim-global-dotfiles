@@ -4,6 +4,10 @@ let g:EasyMotion_do_mapping = 0
 " case insensitive
 let g:EasyMotion_smartcase = 1
 
+" jump to first match with Enter or Space
+let g:EasyMotion_enter_jump_first = 1
+let g:EasyMotion_space_jump_first = 1
+
 " jump anywhere with s{char}{char}{label}
 nmap s <Plug>(easymotion-overwin-f2)
 
