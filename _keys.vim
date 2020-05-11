@@ -44,6 +44,3 @@ map K <PageUp>
 " Copy current path to buffer
 nmap ,cs :let @+=expand("%")<CR>
 nmap ,cl :let @+=expand("%:p")<CR>
-
-" easy normal mode for terminal
-tnoremap <Esc> <C-\><C-n>
