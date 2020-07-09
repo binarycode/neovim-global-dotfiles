@@ -1,63 +1,84 @@
 [submodule "site/pack/plugins/start/fzf"]
 	path = site/pack/plugins/start/fzf
 	url = https://github.com/junegunn/fzf
+	branch = master
 [submodule "site/pack/plugins/start/fzf.vim"]
 	path = site/pack/plugins/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
+	branch = master
 [submodule "site/pack/plugins/start/lightline.vim"]
 	path = site/pack/plugins/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
+	branch = master
 [submodule "site/pack/plugins/start/molokai"]
 	path = site/pack/plugins/start/molokai
 	url = https://github.com/tomasr/molokai.git
+	branch = master
 [submodule "site/pack/plugins/start/nerdcommenter"]
 	path = site/pack/plugins/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+	branch = master
 [submodule "site/pack/plugins/start/supertab"]
 	path = site/pack/plugins/start/supertab
 	url = https://github.com/ervandew/supertab.git
+	branch = master
 [submodule "site/pack/plugins/start/syntastic"]
 	path = site/pack/plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-easy-align"]
 	path = site/pack/plugins/start/vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-easymotion"]
 	path = site/pack/plugins/start/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-editorconfig"]
 	path = site/pack/plugins/start/vim-editorconfig
 	url = https://github.com/sgur/vim-editorconfig.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-endwise"]
 	path = site/pack/plugins/start/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-eunuch"]
 	path = site/pack/plugins/start/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-filebeagle"]
 	path = site/pack/plugins/start/vim-filebeagle
 	url = https://github.com/jeetsukumaran/vim-filebeagle.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-fugitive"]
 	path = site/pack/plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-grepper"]
 	path = site/pack/plugins/start/vim-grepper
 	url = https://github.com/mhinz/vim-grepper.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-polyglot"]
 	path = site/pack/plugins/start/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot
+	branch = master
 [submodule "site/pack/plugins/start/vim-rooter"]
 	path = site/pack/plugins/start/vim-rooter
 	url = https://github.com/airblade/vim-rooter.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-surround"]
 	path = site/pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-unimpaired"]
 	path = site/pack/plugins/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+	branch = master
 [submodule "site-minimal/pack/plugins/start/vim-easymotion"]
 	path = site-minimal/pack/plugins/start/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+	branch = master
 [submodule "site/pack/plugins/start/vim-coffee-script"]
 	path = site/pack/plugins/start/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script
+	branch = master
