@@ -58,3 +58,6 @@
 [submodule "site-minimal/pack/plugins/start/vim-easymotion"]
 	path = site-minimal/pack/plugins/start/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "site/pack/plugins/start/vim-coffee-script"]
+	path = site/pack/plugins/start/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script
