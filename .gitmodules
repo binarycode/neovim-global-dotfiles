@@ -85,3 +85,9 @@
 [submodule "site/pack/plugins/start/vim-openscad"]
 	path = site/pack/plugins/start/vim-openscad
 	url = https://github.com/sirtaj/vim-openscad.git
+[submodule "site/pack/plugins/start/quick-scope"]
+	path = site/pack/plugins/start/quick-scope
+	url = https://github.com/unblevable/quick-scope
+[submodule "site/pack/plugins/start/vim-sneak"]
+	path = site/pack/plugins/start/vim-sneak
+	url = https://github.com/justinmk/vim-sneak

@@ -4,9 +4,6 @@ let mapleader = "\<Space>"
 " hide search highlight on escape
 nnoremap <esc> :noh<return><esc>
 
-" use ; as : in command mode
-nnoremap ; :
-
 " navigation between split windows
 nnoremap <c-j> <c-w>j
 nnoremap <c-k> <c-w>k
