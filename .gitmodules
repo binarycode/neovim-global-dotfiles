@@ -91,3 +91,6 @@
 [submodule "site/pack/plugins/start/vim-sneak"]
 	path = site/pack/plugins/start/vim-sneak
 	url = https://github.com/justinmk/vim-sneak
+[submodule "site/pack/plugins/start/vim-plugin-ruscmd"]
+	path = site/pack/plugins/start/vim-plugin-ruscmd
+	url = https://github.com/powerman/vim-plugin-ruscmd
